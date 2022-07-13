@@ -1,0 +1,39 @@
+{
+  "description": "Welcome to my brain! here is my doodle page, which is basically what lives in my subconscious all day. I used a 'stream of consciousness' type method where I put little thought into what was actually going on the page, just whatever came into my mind at the time. -TheCatAndHerDoodles", 
+  "external_url": "https://thecatandherdoodles.godaddysites.com", 
+  "image": "https://ipfs.filebase.io/ipfs/QmVYA9yFqsxFZXbxHTJLWFzYAj8Hdnmwet6EKTJ4XCTjQn", 
+  "name": "TheCatsAndHerDoodles",
+"attributes": [
+    {
+      "trait_type": "Art-type", 
+      "value": "Doodles"
+    }, 
+    {
+      "trait_type": "Category", 
+      "value": "Illustration"
+    }, 
+    {
+      "trait_type": "Source", 
+      "value": "Inspiration"
+    }, 
+    {
+      "trait_type": "History", 
+      "value": "Darkart"
+    }, 
+    {
+      "trait_type": "Tool", 
+      "value": "Micronpen"
+    }, 
+    {
+    
+      "trait_type": "Class", 
+      "value": "Anime"
+    }, 
+    
+    {
+      "display_type": "number", 
+      "trait_type": "Generation", 
+      "value": 22
+    }
+  ]
+}
